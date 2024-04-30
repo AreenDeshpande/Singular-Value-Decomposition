@@ -1,2 +1,2 @@
 This program is a demonstration of Singular Value Decomposition algorithm used in Facial Recognition Software.
-It takes a matrix and breaks it down into 3 matrices.
+The Singular Value Decomposition (SVD) of a matrix is a factorization of that matrix into three matrices. It has some interesting algebraic properties and conveys important geometrical and theoretical insights about linear transformations. It also has some important applications in data science. 
